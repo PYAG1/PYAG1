@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Papa Yaw Agyeman-Gyekye
 
-## 💻 Software Engineer | Data Analytics Enthusiast | AI Explorer
+## 💻 Software Engineer | Data Analytics Enthusiast
 
 I'm a passionate software engineer with experience in building responsive and user-friendly applications. Currently exploring the fascinating worlds of data analytics and artificial intelligence.
 
