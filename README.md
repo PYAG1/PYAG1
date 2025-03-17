@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Papa Yaw Agyeman-Gyekye
 
-<!--
-**PYAG1/PYAG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Engineer | Data Analytics Enthusiast | AI Explorer
 
-Here are some ideas to get you started:
+I'm a passionate software engineer with experience in building responsive and user-friendly applications. Currently exploring the fascinating worlds of data analytics and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Frontend: React, Next.js, TypeScript, Tailwind CSS
+- Backend: Express.js, Nest.js, Go
+- Database: PostgreSQL, Supabase
+- Cloud: Foundational knowledge in cloud architecture
+- Other Languages: Python, C++, Dart
+
+### 🚀 Currently Working On
+- Expanding my knowledge in data analytics
+- Exploring AI technologies and applications
+- Contributing to open-source projects
+
+
+
+### 📫 Let's Connect
+- Email: gyekyeyaw3@gmail.com
+
+
